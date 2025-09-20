@@ -23,7 +23,8 @@ Both my **HUDManager** and **FoodSpawner** systems use singletons. I chose to im
 - **FoodSpawner:** Only one instance is needed, and food instances must reference the manager when consumed. A singleton ensures proper global access.
 
 ### Diagram:
-<img width="1351" height="711" alt="UML" src="https://github.com/user-attachments/assets/3610c010-4a9c-4214-9fc2-37b4a687d1ee" />
+<img width="1396" height="720" alt="UML" src="https://github.com/user-attachments/assets/5556c00c-3aad-4aad-b4f6-51464d730229" />
+
 
 ---
 
